@@ -1,4 +1,4 @@
-package 'AppLovinMediationVerveAdapter', git: 'https://github.com/AppLovin/AppLovin-MAX-Swift-Package-Verve.git', products: ['AppLovinMediationVerveAdapter']
+package 'AppLovinMediationVerveAdapter', git: 'https://github.com/AppLovin/AppLovin-MAX-Swift-Package-Verve.git', products: ['AppLovinMediationVerveAdapter'], version_format: :packed
 
 binary 'AppLovinMediationVerveAdapter' do
   version '3.9.1.0',

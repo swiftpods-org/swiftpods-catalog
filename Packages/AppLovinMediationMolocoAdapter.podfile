@@ -1,1 +1,1 @@
-package 'AppLovinMediationMolocoAdapter', git: 'https://github.com/AppLovin/AppLovin-MAX-Swift-Package-Moloco.git', products: ['AppLovinMediationMolocoAdapter']
+package 'AppLovinMediationMolocoAdapter', git: 'https://github.com/AppLovin/AppLovin-MAX-Swift-Package-Moloco.git', products: ['AppLovinMediationMolocoAdapter'], version_format: :packed

@@ -1,1 +1,1 @@
-package 'AppLovinMediationGoogleAdManagerAdapter', git: 'https://github.com/AppLovin/AppLovin-MAX-Swift-Package-GoogleAdsManager.git', products: ['AppLovinMediationGoogleAdManagerAdapter']
+package 'AppLovinMediationGoogleAdManagerAdapter', git: 'https://github.com/AppLovin/AppLovin-MAX-Swift-Package-GoogleAdsManager.git', products: ['AppLovinMediationGoogleAdManagerAdapter'], version_format: :packed

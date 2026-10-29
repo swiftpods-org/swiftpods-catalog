@@ -1,1 +1,1 @@
-package 'AppLovinMediationSmaatoAdapter', git: 'https://github.com/AppLovin/AppLovin-MAX-Swift-Package-Smaato.git', products: ['AppLovinMediationSmaatoAdapter']
+package 'AppLovinMediationSmaatoAdapter', git: 'https://github.com/AppLovin/AppLovin-MAX-Swift-Package-Smaato.git', products: ['AppLovinMediationSmaatoAdapter'], version_format: :packed

@@ -28,6 +28,9 @@ package 'Datadog', git: 'https://github.com/DataDog/dd-sdk-ios.git', products: [
 - `products`: what a target links when the Podfile names no products. Omit it
   when there is no sensible default (Firebase, Facebook); the Podfile must then
   choose with `products:`.
+- `version_format: :packed`: the package encodes a longer vendor version in its
+  major version, as AppLovin MAX adapters do (adapter 13.9.0.0 is package
+  version 13090000.0.0). Podfiles then write the vendor's version, `'13.9.0.0'`.
 
 ## Binary SDKs
 

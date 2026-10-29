@@ -1,1 +1,1 @@
-package 'AppLovinMediationMintegralAdapter', git: 'https://github.com/AppLovin/AppLovin-MAX-Swift-Package-Mintegral.git', products: ['AppLovinMediationMintegralAdapter']
+package 'AppLovinMediationMintegralAdapter', git: 'https://github.com/AppLovin/AppLovin-MAX-Swift-Package-Mintegral.git', products: ['AppLovinMediationMintegralAdapter'], version_format: :packed

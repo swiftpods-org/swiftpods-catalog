@@ -1,1 +1,1 @@
-package 'AppLovinMediationByteDanceAdapter', git: 'https://github.com/AppLovin/AppLovin-MAX-Swift-Package-Pangle.git', products: ['AppLovinMediationByteDanceAdapter']
+package 'AppLovinMediationByteDanceAdapter', git: 'https://github.com/AppLovin/AppLovin-MAX-Swift-Package-Pangle.git', products: ['AppLovinMediationByteDanceAdapter'], version_format: :packed

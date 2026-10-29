@@ -1,1 +1,1 @@
-package 'AppLovinMediationUnityAdsAdapter', git: 'https://github.com/AppLovin/AppLovin-MAX-Swift-Package-UnityAds.git', products: ['AppLovinMediationUnityAdsAdapter']
+package 'AppLovinMediationUnityAdsAdapter', git: 'https://github.com/AppLovin/AppLovin-MAX-Swift-Package-UnityAds.git', products: ['AppLovinMediationUnityAdsAdapter'], version_format: :packed

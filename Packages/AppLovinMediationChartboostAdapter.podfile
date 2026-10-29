@@ -1,1 +1,1 @@
-package 'AppLovinMediationChartboostAdapter', git: 'https://github.com/AppLovin/AppLovin-MAX-Swift-Package-Chartboost.git', products: ['AppLovinMediationChartboostAdapter']
+package 'AppLovinMediationChartboostAdapter', git: 'https://github.com/AppLovin/AppLovin-MAX-Swift-Package-Chartboost.git', products: ['AppLovinMediationChartboostAdapter'], version_format: :packed
