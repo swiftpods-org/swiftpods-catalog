@@ -1,0 +1,1 @@
+package 'Sentry', git: 'https://github.com/getsentry/sentry-cocoa.git', products: ['Sentry']

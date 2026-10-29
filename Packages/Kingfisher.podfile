@@ -1,0 +1,1 @@
+package 'Kingfisher', git: 'https://github.com/onevcat/Kingfisher.git', products: ['Kingfisher']

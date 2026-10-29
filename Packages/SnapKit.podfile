@@ -1,0 +1,1 @@
+package 'SnapKit', git: 'https://github.com/SnapKit/SnapKit.git', products: ['SnapKit']

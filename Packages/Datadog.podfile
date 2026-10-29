@@ -1,0 +1,1 @@
+package 'Datadog', git: 'https://github.com/DataDog/dd-sdk-ios.git', products: ['DatadogCore']

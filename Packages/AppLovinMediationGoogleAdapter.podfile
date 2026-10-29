@@ -1,0 +1,1 @@
+package 'AppLovinMediationGoogleAdapter', git: 'https://github.com/AppLovin/AppLovin-MAX-Swift-Package-Google.git', products: ['AppLovinMediationGoogleAdapter']

@@ -1,0 +1,1 @@
+package 'AppLovinMediationMolocoAdapter', git: 'https://github.com/AppLovin/AppLovin-MAX-Swift-Package-Moloco.git', products: ['AppLovinMediationMolocoAdapter']

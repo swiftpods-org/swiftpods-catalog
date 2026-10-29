@@ -1,0 +1,1 @@
+package 'Alamofire', git: 'https://github.com/Alamofire/Alamofire.git', products: ['Alamofire']

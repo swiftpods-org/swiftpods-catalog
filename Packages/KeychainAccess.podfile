@@ -1,0 +1,1 @@
+package 'KeychainAccess', git: 'https://github.com/kishikawakatsumi/KeychainAccess.git', products: ['KeychainAccess']

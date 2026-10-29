@@ -1,0 +1,1 @@
+package 'SDWebImage', git: 'https://github.com/SDWebImage/SDWebImage.git', products: ['SDWebImage']

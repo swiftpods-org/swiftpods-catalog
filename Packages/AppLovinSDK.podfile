@@ -1,0 +1,1 @@
+package 'AppLovinSDK', git: 'https://github.com/AppLovin/AppLovin-MAX-Swift-Package.git', products: ['AppLovinSDK']

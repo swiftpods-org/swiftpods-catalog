@@ -1,0 +1,1 @@
+package 'swift-algorithms', git: 'https://github.com/apple/swift-algorithms.git', products: ['Algorithms']

@@ -1,0 +1,1 @@
+package 'swift-log', git: 'https://github.com/apple/swift-log.git', products: ['Logging']

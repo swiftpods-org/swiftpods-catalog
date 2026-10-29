@@ -1,0 +1,1 @@
+package 'HyBid', git: 'https://github.com/vervegroup/hybid-ios-spm-sdk.git', products: ['HyBid']

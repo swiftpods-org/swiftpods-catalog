@@ -1,0 +1,1 @@
+package 'AppLovinMediationBigoAdsAdapter', git: 'https://github.com/AppLovin/AppLovin-MAX-Swift-Package-BigoAds.git', products: ['AppLovinMediationBigoAdsAdapter']

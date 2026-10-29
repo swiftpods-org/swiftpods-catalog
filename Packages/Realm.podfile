@@ -1,0 +1,1 @@
+package 'Realm', git: 'https://github.com/realm/realm-swift.git', products: ['RealmSwift']

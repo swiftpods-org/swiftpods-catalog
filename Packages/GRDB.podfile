@@ -1,0 +1,1 @@
+package 'GRDB', git: 'https://github.com/groue/GRDB.swift.git', products: ['GRDB']

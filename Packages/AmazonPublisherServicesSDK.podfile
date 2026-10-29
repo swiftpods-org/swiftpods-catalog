@@ -1,0 +1,1 @@
+package 'AmazonPublisherServicesSDK', git: 'https://github.com/amzn/swift-package-manager-amazon-aps.git', products: ['AmazonPublisherServicesSDK']

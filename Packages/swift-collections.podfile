@@ -1,0 +1,1 @@
+package 'swift-collections', git: 'https://github.com/apple/swift-collections.git', products: ['Collections']

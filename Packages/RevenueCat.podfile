@@ -1,0 +1,1 @@
+package 'RevenueCat', git: 'https://github.com/RevenueCat/purchases-ios.git', products: ['RevenueCat']

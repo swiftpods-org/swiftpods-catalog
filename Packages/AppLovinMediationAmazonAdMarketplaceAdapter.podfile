@@ -1,0 +1,1 @@
+package 'AppLovinMediationAmazonAdMarketplaceAdapter', git: 'https://github.com/AppLovin/AppLovin-MAX-Swift-Package-AmazonAdMarketplace.git', products: ['AppLovinMediationAmazonAdMarketplaceAdapter']

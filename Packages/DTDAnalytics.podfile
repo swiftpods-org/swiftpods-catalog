@@ -1,0 +1,1 @@
+package 'DTDAnalytics', git: 'https://github.com/devtodev-analytics/ios-sdk-2.0.git', products: ['DTDAnalytics']

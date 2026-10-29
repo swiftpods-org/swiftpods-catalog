@@ -1,0 +1,1 @@
+package 'Nuke', git: 'https://github.com/kean/Nuke.git', products: ['Nuke']

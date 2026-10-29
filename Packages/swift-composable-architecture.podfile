@@ -1,0 +1,1 @@
+package 'swift-composable-architecture', git: 'https://github.com/pointfreeco/swift-composable-architecture.git', products: ['ComposableArchitecture']

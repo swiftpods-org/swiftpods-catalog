@@ -1,0 +1,1 @@
+package 'AppLovinMediationVerveAdapter', git: 'https://github.com/AppLovin/AppLovin-MAX-Swift-Package-Verve.git', products: ['AppLovinMediationVerveAdapter']

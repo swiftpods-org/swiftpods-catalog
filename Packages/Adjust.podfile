@@ -1,0 +1,1 @@
+package 'Adjust', git: 'https://github.com/adjust/ios_sdk.git', products: ['AdjustSdk']

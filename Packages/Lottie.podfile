@@ -1,0 +1,1 @@
+package 'Lottie', git: 'https://github.com/airbnb/lottie-spm.git', products: ['Lottie']

@@ -1,0 +1,1 @@
+package 'Amplitude', git: 'https://github.com/amplitude/Amplitude-iOS.git', products: ['Amplitude']

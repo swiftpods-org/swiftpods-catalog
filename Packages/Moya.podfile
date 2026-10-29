@@ -1,0 +1,1 @@
+package 'Moya', git: 'https://github.com/Moya/Moya.git', products: ['Moya']

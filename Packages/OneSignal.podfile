@@ -1,0 +1,1 @@
+package 'OneSignal', git: 'https://github.com/OneSignal/OneSignal-XCFramework.git', products: ['OneSignalFramework']

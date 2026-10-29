@@ -1,0 +1,1 @@
+package 'AppLovinMediationOguryPresageAdapter', git: 'https://github.com/AppLovin/AppLovin-MAX-Swift-Package-Ogury.git', products: ['AppLovinMediationOguryPresageAdapter']

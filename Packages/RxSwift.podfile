@@ -1,0 +1,1 @@
+package 'RxSwift', git: 'https://github.com/ReactiveX/RxSwift.git', products: ['RxSwift']

@@ -1,0 +1,1 @@
+package 'AppsFlyerLib', git: 'https://github.com/AppsFlyerSDK/AppsFlyerFramework.git', products: ['AppsFlyerLib']

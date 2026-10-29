@@ -1,0 +1,1 @@
+package 'GoogleMobileAds', git: 'https://github.com/googleads/swift-package-manager-google-mobile-ads.git', products: ['GoogleMobileAds']

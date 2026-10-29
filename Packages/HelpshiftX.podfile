@@ -1,0 +1,1 @@
+package 'HelpshiftX', git: 'https://github.com/helpshift/HelpshiftX.git', products: ['HelpshiftX']

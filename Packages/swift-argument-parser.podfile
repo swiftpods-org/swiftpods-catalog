@@ -1,0 +1,1 @@
+package 'swift-argument-parser', git: 'https://github.com/apple/swift-argument-parser.git', products: ['ArgumentParser']

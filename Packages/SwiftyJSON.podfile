@@ -1,0 +1,1 @@
+package 'SwiftyJSON', git: 'https://github.com/SwiftyJSON/SwiftyJSON.git', products: ['SwiftyJSON']

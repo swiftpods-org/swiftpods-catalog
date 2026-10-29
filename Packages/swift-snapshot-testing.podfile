@@ -1,0 +1,1 @@
+package 'swift-snapshot-testing', git: 'https://github.com/pointfreeco/swift-snapshot-testing.git', products: ['SnapshotTesting']
