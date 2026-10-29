@@ -1,0 +1,5 @@
+binary 'AppLovinMediationHyprMXAdapter' do
+  version '6.4.2.0.0',
+          url: 'https://artifacts.applovin.com/ios/com/applovin/mediation/hyprmx-adapter/AppLovinMediationHyprMXAdapter-6.4.2.0.0.zip',
+          sha256: '7b88376fbeee57293183750ba0d5d73c253b22492c4a8af6f614a4c01e8fbcbf'
+end

@@ -1,0 +1,5 @@
+binary 'HyprMX' do
+  version '6.4.2',
+          url: 'https://s3.amazonaws.com/cocoapods-files/HyprMX/6.4.2/HyprMX_iOS_v6-4-2.zip',
+          sha256: 'a6e22accd79ddedb82c497f7d0c0c331a40d8d8b52daf9468dd95a434e9c56c1'
+end

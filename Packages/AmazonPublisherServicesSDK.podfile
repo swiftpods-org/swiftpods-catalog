@@ -1,1 +1,9 @@
 package 'AmazonPublisherServicesSDK', git: 'https://github.com/amzn/swift-package-manager-amazon-aps.git', products: ['AmazonPublisherServicesSDK']
+
+binary 'AmazonPublisherServicesSDK',
+       xcframeworks: ['DTBiOSSDK.xcframework'],
+       system_frameworks: %w[CoreLocation SystemConfiguration CoreTelephony MediaPlayer StoreKit QuartzCore] do
+  version '5.6.4',
+          url: 'https://d14jk8f50gmy3e.cloudfront.net/iOS_APS_SDK/APS_iOS_SDK-5.6.4.zip',
+          sha256: '96bc32aed43b4574e1e762fc9ef55c99a8fe6a7bd17c806624fc91e905bd1ba2'
+end

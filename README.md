@@ -29,6 +29,25 @@ package 'Datadog', git: 'https://github.com/DataDog/dd-sdk-ios.git', products: [
   when there is no sensible default (Firebase, Facebook); the Podfile must then
   choose with `products:`.
 
+## Binary SDKs
+
+SDKs without a Swift package, or older versions published only as archives, are
+listed by version. A Podfile then writes `binary 'HyprMX', '6.4.2'`:
+
+```ruby
+# Packages/HyprMX.podfile
+binary 'HyprMX', system_frameworks: ['WebKit'] do
+  version '6.4.2', url: 'https://…/HyprMX_iOS_v6-4-2.zip', sha256: 'a6e22acc…'
+end
+```
+
+`xcframeworks`, `resources`, `system_frameworks`, `libraries` and `linker_flags`
+describe how to link every listed version; names without a folder are found at
+any depth in the archive. A file may hold both a `package` and a `binary` for one
+name, when newer versions are Swift packages and older ones only archives. Each
+new version is a pull request that adds one `version` line with the archive's
+SHA-256 (`shasum -a 256 Archive.zip`).
+
 ## Adding a package
 
 Open a pull request with one new file. It is accepted when:

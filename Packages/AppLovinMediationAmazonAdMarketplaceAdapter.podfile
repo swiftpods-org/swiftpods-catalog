@@ -1,1 +1,7 @@
 package 'AppLovinMediationAmazonAdMarketplaceAdapter', git: 'https://github.com/AppLovin/AppLovin-MAX-Swift-Package-AmazonAdMarketplace.git', products: ['AppLovinMediationAmazonAdMarketplaceAdapter']
+
+binary 'AppLovinMediationAmazonAdMarketplaceAdapter' do
+  version '5.6.4.0',
+          url: 'https://artifacts.applovin.com/ios/com/applovin/mediation/amazonadmarketplace-adapter/AppLovinMediationAmazonAdMarketplaceAdapter-5.6.4.0.zip',
+          sha256: 'a2dee3050a1d3088c81301076b19e5d350cc4617599dbdb0a6144c4567405070'
+end

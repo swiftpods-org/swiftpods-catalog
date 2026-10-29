@@ -1,0 +1,7 @@
+binary 'BigoADS',
+       libraries: ['c++'],
+       resources: ['BigoADSRes.bundle'] do
+  version '5.3.0',
+          url: 'https://static-fed-oss.adsbigo.com/bigoads-framework/BigoADS_50300_92.zip',
+          sha256: 'b1fa8071b0ef135a0e94ec223b180ee65e9d5b4c81c1aae38cda55532f55db0f'
+end

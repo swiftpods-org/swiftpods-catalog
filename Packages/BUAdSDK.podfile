@@ -1,0 +1,11 @@
+binary 'BUAdSDK',
+       xcframeworks: ['BUAdSDK.xcframework'],
+       resources: ['CSJAdSDK.bundle'],
+       system_frameworks: %w[UIKit MapKit WebKit MediaPlayer CoreLocation AdSupport CoreMedia AVFoundation CoreTelephony
+                             StoreKit SystemConfiguration MobileCoreServices CoreMotion Accelerate AudioToolbox JavaScriptCore
+                             Security CoreImage ImageIO QuartzCore CoreGraphics CoreText AppTrackingTransparency DeviceCheck CoreML],
+       libraries: %w[c++ resolv z sqlite3 bz2 xml2 iconv c++abi] do
+  version '6.7.1.6',
+          url: 'https://sf3-fe-tos.pglstatp-toutiao.com/obj/csj-sdk-static/Public/SDK/6.7.1.6/SDK.zip',
+          sha256: '74982e993a59a08fa6ff52b97ef406735dfa10b2e57953623bd8b4a10c854358'
+end

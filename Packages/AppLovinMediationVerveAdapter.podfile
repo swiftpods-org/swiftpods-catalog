@@ -1,1 +1,7 @@
 package 'AppLovinMediationVerveAdapter', git: 'https://github.com/AppLovin/AppLovin-MAX-Swift-Package-Verve.git', products: ['AppLovinMediationVerveAdapter']
+
+binary 'AppLovinMediationVerveAdapter' do
+  version '3.9.1.0',
+          url: 'https://artifacts.applovin.com/ios/com/applovin/mediation/verve-adapter/AppLovinMediationVerveAdapter-3.9.1.0.zip',
+          sha256: '70458316bed644b87437880e7958b511e29e00eccd5486e7f19dfacc32ff36f1'
+end

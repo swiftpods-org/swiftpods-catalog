@@ -1,0 +1,5 @@
+binary 'AppLovinMediationCSJAdapter' do
+  version '6.7.1.6.0',
+          url: 'https://artifacts.applovin.com/ios/com/applovin/mediation/csj-adapter/AppLovinMediationCSJAdapter-6.7.1.6.0.zip',
+          sha256: 'aff74bf987ad5604e7469349010ea15310b016cec5b5df0d447f590fe40f65f4'
+end
