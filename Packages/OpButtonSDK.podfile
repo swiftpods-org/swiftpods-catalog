@@ -1,0 +1,1 @@
+package 'OpButtonSDK', git: 'https://github.com/opbutton-org/opbutton-sdk-swift.git', products: ['OpButtonSDK']
